@@ -22,6 +22,7 @@ namespace ServiceDescriptionForm
         public ServiceDescriptionForm()
         {
             InitializeComponent();
+            _displayService = new DisplayServiceDescription(this);
         }
 
         
