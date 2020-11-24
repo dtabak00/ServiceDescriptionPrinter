@@ -3,10 +3,7 @@ This is a program which parses a WSDL file and displays it's properties using th
 
 Screenshots:
 
-1. Main Screenshot
 ![Main Pic](../assets/main-screenshot.jpg?raw=true)
-
-2. Prompt Screenshot
 ![Prompt Pic](../assets/prompt-screenshot.jpg?raw=true)
 
 ## Prerequisites
