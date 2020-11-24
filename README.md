@@ -21,7 +21,7 @@ Windows:
 
 1. Open `cmd` or `PowerShell` and run command:
 ```
-git clone https://github.com/icedandreas/P9-Project.git
+git clone https://github.com/furiousdom/service-description-printer.git
 ```
 
 2. To run the project open it in Visual Studio 2017 or 2019 and hit:
